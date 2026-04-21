@@ -1,0 +1,4 @@
+model,accuracy,f1_macro
+LogisticRegression,0.425,0.2250766215841527
+RandomForest,0.525,0.19698760832367387
+XGBoost,0.535,0.2117101297949922

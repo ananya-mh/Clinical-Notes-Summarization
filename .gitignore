@@ -22,7 +22,7 @@ Thumbs.db
 
 # Data & model artifacts
 data/processed/
-results/
+models/
 *.pt
 *.bin
 *.safetensors

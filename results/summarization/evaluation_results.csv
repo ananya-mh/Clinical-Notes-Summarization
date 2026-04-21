@@ -1,0 +1,5 @@
+rouge1,rouge2,rougeL,bertscore_precision,bertscore_recall,bertscore_f1,avg_compression,avg_src_words,avg_gen_words,avg_ref_words,entity_retention,entity_retention_median,model,split,n_examples
+0.2514,0.0938,0.1867,0.7699,0.7963,0.7818,0.4706,90.0,38.1,36.1,0.4489,0.4338,t5-small,validation,100
+0.3165,0.1167,0.2505,0.8213,0.8035,0.8112,0.751,90.0,25.0,36.1,0.2254,0.25,bart-base,validation,100
+0.2523,0.0993,0.1948,0.7673,0.7909,0.7777,0.5185,100.1,39.2,38.5,0.3882,0.3828,t5-small,test,200
+0.3379,0.1577,0.2794,0.8289,0.8074,0.8167,0.7551,100.1,30.2,38.5,0.2172,0.2248,bart-base,test,200
